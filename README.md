@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/eniola-caleb-olagbegi-2609272a4/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="upwork.com/freelancers/~018992f035cd4986de">
+   <a href="https://www.upwork.com/freelancers/~018992f035cd4986de">
   <img src="https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Badge"/>
 </a>
   <a href="https://x.com/Calebiishim">
