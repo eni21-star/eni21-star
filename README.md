@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-<img src ="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZxeXVnZ3ZjcjU0c2JibTNoMXg1M3dwMnZ0NGVhbWZ4YzVkYXBzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZdHsPsHUdWr882Uu85/giphy.gif"/>
+<img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWMweDE2N3F2N3c1OThvbnF3cGYzZ2dsa2xvempsd3F0d2JrYWZ2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1z/cbOun7SXza6TpmyUTZ/giphy.gif"/>
  
  <div id="badges">
   <a href="https://www.linkedin.com/in/eniola-caleb-olagbegi-2609272a4/">
@@ -46,7 +46,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-original-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
